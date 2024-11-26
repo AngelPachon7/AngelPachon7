@@ -2,25 +2,25 @@
 
  # Información soobre mí
 
--Mi nombre es Angel Joseph Pachón Rodríguez
+- Mi nombre es Angel Joseph Pachón Rodríguez
 
--Soy estudiante de primer semestre ingeniería mecánica en la Universidad Nacional de COLOMBIA
+- Soy estudiante de primer semestre ingeniería mecánica en la Universidad Nacional de COLOMBIA
 
--Estoy aprendiendo programación en Phyton Y Git
+- Estoy aprendiendo programación en Phyton Y Git
 
--Busco aprender sobre distintos lenguajes de programación
+- Busco aprender sobre distintos lenguajes de programación
 
 # HABILIDADES
 
--Aprendo rapido 
+- Aprendo rapido 
 
--Liderazgo
+- Liderazgo
 
--B1 en ingles
+- B1 en ingles
 
--tecnico en electronica
+- tecnico en electronica
 
- -buenas habilidades sociales
+- buenas habilidades sociales
 
 
 
