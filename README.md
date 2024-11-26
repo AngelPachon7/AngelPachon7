@@ -1,6 +1,6 @@
 ## HOLA
 
-** Información soobre mí
+ Información soobre mí
 
 -Mi nombre es Angel Joseph Pachón Rodríguez
 
