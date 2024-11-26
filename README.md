@@ -1,6 +1,6 @@
 ## HOLA
 
- Información soobre mí
+ #Información soobre mí
 
 -Mi nombre es Angel Joseph Pachón Rodríguez
 
@@ -10,12 +10,16 @@
 
 -Busco aprender sobre distintos lenguajes de programación
 
-HABILIDADES
+#HABILIDADES
 
 -Aprendo rapido 
+
 -Liderazgo
+
 -B1 en ingles
+
 -tecnico en electronica
+
 
 
 
