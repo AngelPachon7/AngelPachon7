@@ -1,8 +1,26 @@
-## Hi there 👋
+## HOLA
 
-<!--
-**AngelPachon7/AngelPachon7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Información soobre mí
 
+-Mi nombre es Angel Joseph Pachón Rodríguez
+
+-Soy estudiante de primer semestre ingeniería mecánica en la Universidad Nacional de COLOMBIA
+
+-Estoy aprendiendo programación en Phyton Y Git
+
+-Busco aprender sobre distintos lenguajes de programación
+
+
+
+
+
+
+
+
+
+
+
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
